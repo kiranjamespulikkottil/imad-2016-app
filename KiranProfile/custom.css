@@ -31,6 +31,10 @@
     padding-top: 49px;
 }
 
+.head-content p{
+    width:10%;
+}
+
 label {
     color: white;
 }
