@@ -22,7 +22,7 @@ app.get('/KiranProfile/user-management.js', function (req, res) {
 });
 
 app.get('/KiranProfile/jquery-3.1.1.js', function (req, res) {
-  res.sendFile(path.join(__dirname, 'KiranProfile', 'jquery-1.11.1.js'));
+  res.sendFile(path.join(__dirname, 'KiranProfile', 'jquery-3.1.1.js'));
 });
 
 
