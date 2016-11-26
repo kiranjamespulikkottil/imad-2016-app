@@ -62,6 +62,7 @@ p {
 
 
 .p {
+    width:100%
     color: white;
     height:225px;
     border-color: white;
