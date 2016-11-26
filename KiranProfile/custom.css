@@ -1,0 +1,91 @@
+﻿.content {
+    width: 76%;
+    height: 100%;
+    margin-left: 12%;
+}
+
+.header {
+    background-color: #05699b;
+    width: 100%;
+    height: 139px;
+}
+
+.profile-image {
+    height: 100%;
+    width: 14%;
+}
+
+.tab {
+    background-color: #07557a;
+    width: 100%;
+    height: 46px;
+}
+
+.body-content {
+    width: 100%;
+    /*height: 64%;*/
+    background-color: #2b80ab;
+}
+
+.addres_con{
+    padding-top: 49px;
+}
+
+label {
+    color: white;
+}
+
+h1 {
+    color: white;
+}
+
+h3 {
+    color: white;
+}
+
+h2 {
+    color: white;
+}
+
+pre {
+    color: white;
+    font-size: larger;
+}
+
+p {
+    color: white;
+}
+
+
+.p {
+    color: white;
+    height:225px;
+    border: ridge;
+    border-color: white;
+}
+
+li {
+    display: inline-block;
+    padding: 17px 50px 14px 50px;
+    color: white;
+    font-size: 12px;
+    cursor: pointer;
+}
+
+    li:hover {
+        background-color: #2b80ab;
+    }
+
+.clikked-tab {
+    background-color: #2b80ab;
+}
+
+a {
+    color: white !important;
+    text-decoration: none !important;
+}
+
+body {
+    min-width: 1020px;
+    word-wrap: break-word;
+}
