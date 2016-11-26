@@ -9,11 +9,11 @@ app.get('/', function (req, res) {
   res.sendFile(path.join(__dirname, 'KiranProfile', 'WebApp.html'));
 });
 
-app.get('/ui/style.css', function (req, res) {
-  res.sendFile(path.join(__dirname, 'KiranProfileKiranProfile', 'custom.css'));
+app.get('/KiranProfile/custom.css', function (req, res) {
+  res.sendFile(path.join(__dirname, 'KiranProfile', 'custom.css'));
 });
 
-app.get('/ui/madi.png', function (req, res) {
+app.get('/KiranProfile/kiran.jpg', function (req, res) {
   res.sendFile(path.join(__dirname, 'KiranProfile', 'kiran.jpg'));
 });
 
